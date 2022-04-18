@@ -1,0 +1,10 @@
+.exp {
+   
+    text-align: left;
+    padding: 1rem;
+    color: whitesmoke;
+}
+
+h3:hover {
+    color: blue;
+}

@@ -1,0 +1,22 @@
+.gen {
+    color: whitesmoke;
+    text-align: left;
+    padding: 1rem;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-transform: uppercase;
+    padding-left: 3rem;
+}
+
+span {
+    font-size: 1rem;
+}
+
+.email {
+    text-transform: lowercase;
+}
